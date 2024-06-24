@@ -1,6 +1,6 @@
-# MicSpectrum - Realtime Audio Spectrum Visualization in Unity
+# RealtimeMicSpectrum - Realtime Audio Spectrum Visualization in Unity
 
-MicSpectrum is a Unity script for real-time visualization of microphone or line-in audio spectrum analysis data. This project does not use `AudioSource` or `AudioListener` components, nor does it rely on third-party packages. It also avoids delay issues and bugs when focusing off the window when 'run in background' setting is enabled.
+RealtimeMicSpectrum is a Unity script for real-time visualization of microphone or line-in audio spectrum analysis data. This project does not use `AudioSource` or `AudioListener` components, nor does it rely on third-party packages. It also avoids delay issues and bugs when focusing off the window when 'run in background' setting is enabled.
 
 ## Features
 
@@ -10,7 +10,7 @@ MicSpectrum is a Unity script for real-time visualization of microphone or line-
 - Uses Fast Fourier Transform (FFT) for spectrum analysis.
 - Simple and clean visualization using Unity's GUI system.
 
-![MicSpectrum Screenshot](RealtimeMicSpectrum.jpg)
+![RealtimeMicSpectrum Screenshot](RealtimeMicSpectrum.jpg)
 
 ## Getting Started
 
@@ -25,9 +25,9 @@ MicSpectrum is a Unity script for real-time visualization of microphone or line-
     git clone https://github.com/shinklej/RealtimeMicSpectrum.git
     ```
 
-2. Open your Unity project and navigate to the `MicSpectrum1` script.
+2. Open your Unity project and navigate to the `RealtimeMicSpectrum` script.
 
-3. Attach the `MicSpectrum1` script to a GameObject in your scene.
+3. Attach the `RealtimeMicSpectrum` script to a GameObject in your scene.
 
 ### Usage
 
