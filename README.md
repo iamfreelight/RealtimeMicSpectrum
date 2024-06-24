@@ -22,7 +22,7 @@ MicSpectrum is a Unity script for real-time visualization of microphone or line-
 1. Clone this repository or download the ZIP file and extract it to your Unity project's `Assets` folder.
 
     ```sh
-    git clone https://github.com/yourusername/MicSpectrum.git
+    git clone https://github.com/shinklej/RealtimeMicSpectrum.git
     ```
 
 2. Open your Unity project and navigate to the `MicSpectrum1` script.
