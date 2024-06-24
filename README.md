@@ -11,6 +11,7 @@ RealtimeMicSpectrum is a Unity script for real-time visualization of microphone 
 - Simple and clean visualization using Unity's GUI system.
 
 ![RealtimeMicSpectrum Screenshot](RealtimeMicSpectrum_ss.jpg)
+![RealtimeMicSpectrum Screenshot](RealtimeMicSpectrum_ss1.jpg)
 
 ## Getting Started
 
