@@ -3,7 +3,7 @@ using UnityEngine;
 public class RealtimeMicSpectrum : MonoBehaviour
 {
     public int sampleRate = 22050;
-    public int spectrumSize = 5000; // Size of the FFT array, must be a power of 2
+    public int spectrumSize = 2048; // Size of the FFT array, must be a power of 2
     public int numberOfBars = 64; // Number of bars to display
     public float sensitivity = 50f; // Sensitivity of the visualization
 
