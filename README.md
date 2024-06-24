@@ -10,8 +10,8 @@ RealtimeMicSpectrum is a Unity script for real-time visualization of microphone 
 - Uses Fast Fourier Transform (FFT) for spectrum analysis.
 - Simple and clean visualization using Unity's GUI system.
 
-![RealtimeMicSpectrum Screenshot](RealtimeMicSpectrum_ss.jpg)
 ![RealtimeMicSpectrum Screenshot](RealtimeMicSpectrum_ss1.jpg)
+![RealtimeMicSpectrum Screenshot](RealtimeMicSpectrum_ss2.jpg)
 
 ## Getting Started
 
