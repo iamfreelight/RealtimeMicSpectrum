@@ -23,7 +23,7 @@ RealtimeMicSpectrum is a Unity script for real-time visualization of microphone 
 1. Clone this repository or download the ZIP file and extract it to your Unity project's `Assets` folder.
 
     ```sh
-    git clone https://github.com/shinklej/RealtimeMicSpectrum.git
+    git clone https://github.com/iamfreelight/RealtimeMicSpectrum.git
     ```
 
 2. Open your Unity project and navigate to the `RealtimeMicSpectrum` script.
